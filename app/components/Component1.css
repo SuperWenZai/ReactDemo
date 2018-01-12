@@ -1,0 +1,7 @@
+body div {
+  color: lightcoral;
+}
+body div .app > div {
+  color: #333333;
+  font-size: 14px;
+}
