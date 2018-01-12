@@ -8,6 +8,8 @@ react + webpack
 
 # 示例图（image）
 
+![image](https://github.com/SuperWenZai/ReactDemo/blob/master/app/static/image.png)
+
 # 说明文档
 
     - app                                开发目录
